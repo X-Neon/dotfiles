@@ -1,0 +1,26 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.renderWhitespace": "none",
+    "window.titleBarStyle": "custom",
+    "files.exclude": {
+		"**/__pycache__": true,
+		"**/*.pyc": true
+    },
+	"workbench.iconTheme": "vscode-icons",
+	"workbench.tree.indent": 16,
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.enableExperiments": false,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "update.mode": "manual",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "extensions.ignoreRecommendations": true,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.editor.decorations.colors": false,
+    "editor.bracketPairColorization.enabled": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.cursorSurroundingLines": 10,
+    "workbench.colorTheme": "MonoGruv",
+    "editor.fontFamily": "'Fira Code'",
+    "editor.inlayHints.enabled": "off",
+    "editor.fontLigatures": true
+}

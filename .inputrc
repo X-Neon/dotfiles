@@ -1,0 +1,4 @@
+$include /etc/inputrc
+set completion-ignore-case On
+"\e[Z": " cd .. && clear_line\n"
+"": " clear_screen\n"
